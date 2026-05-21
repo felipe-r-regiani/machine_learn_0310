@@ -1,4 +1,4 @@
-readme_content = """# machine_learn_0310
+# machine_learn_0310
 
 Este repositório é dedicado ao estudo e aplicação da biblioteca **NumPy**, pilar fundamental para a computação científica e análise de dados em Python. O foco aqui é a compreensão profunda de estruturas de dados multidimensionais e operações matemáticas otimizadas.
 
