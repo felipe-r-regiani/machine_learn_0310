@@ -17,14 +17,12 @@ As ferramentas centrais utilizadas neste projeto são:
 ## 🚀 Como começar
 
 1.  Clone este repositório:
-    ```
-bash
     git clone [https://github.com/felipe-r-regiani/machine_learn_0310.git](https://github.com/felipe-r-regiani/machine_learn_0310.git)
-    ```
+
 2.  Certifique-se de ter o Python instalado em sua máquina.
+
 3.  Instale o NumPy:
-    ```bash
     pip install numpy
-    ```
+    
 4.  Abra o notebook para explorar as operações:
     - Inicie o Jupyter ou use a extensão do VS Code para abrir o `numpy.ipynb`.
